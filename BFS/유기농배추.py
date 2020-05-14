@@ -20,6 +20,7 @@ def bfs(x,y,cnt):
 
 
 
+
 for _ in range(T):
     M,N,K = map(int, input().split())
     arr = [[0] * M for _ in range(N)]
