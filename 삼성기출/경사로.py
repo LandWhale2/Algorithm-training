@@ -23,8 +23,6 @@ def checkroad(heights):
             current = height
         else:
             return False
-    
-        
     return True
 
 cnt = 0
